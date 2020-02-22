@@ -144,6 +144,12 @@ section {
   margin-bottom: 1rem;
   color: #adb5bd; }
 
+.block-course {
+  font-size: 1rem;
+  margin-bottom: .5rem;
+  margin-top: .5rem;
+  color: #adb5bd; }
+
 .block-content {
   font-size: 1rem;
   line-height: 1.5; }
