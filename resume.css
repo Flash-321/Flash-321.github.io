@@ -29,6 +29,8 @@ a {
   max-width: 48rem;
   text-align: left; }
 
+
+
 @media screen and (max-width: 48rem) {
   html {
     font-size: 12px; }
