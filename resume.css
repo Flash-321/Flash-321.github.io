@@ -29,7 +29,11 @@ a {
   max-width: 48rem;
   text-align: left; }
 
-
+@media screen{
+    html {
+        zoom: 100%;
+    }
+}
 
 @media screen and (max-width: 48rem) {
   html {
