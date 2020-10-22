@@ -35,14 +35,9 @@ a {
     }
 }
 
-@media screen and (max-width: 48rem){
-    html {
-        zoom: 100%;
-    }
-}
-
 @media screen and (max-width: 48rem) {
   html {
+    zoom: 100%;
     font-size: 12px; }
 
   .container {
